@@ -1,4 +1,6 @@
 # hello-world
-Just another story
+
 This is an exercise 
-This is my first time
+and my first time with github.
+
+I'm testing and learning.
